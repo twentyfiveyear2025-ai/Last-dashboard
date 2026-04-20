@@ -17,8 +17,8 @@ python backend.py
 1. Open your web browser
 2. Go to: `http://localhost:5000`
 3. Login with:
-   - Username: `admin`
-   - Password: `admin123`
+   - Username: `user`
+   - Password: `******`
 
 ## Features
 
