@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "0f8fbe46-0075-4251-8159-99db837358ce",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-20T14:12:45.543740"
+  },
+  {
+    "id": "fc63e1da-005b-48be-bba0-c76a79afbf52",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-20T12:28:49.646661"
+  },
+  {
+    "id": "22d6420b-e674-4e4b-93ad-0e567d7fcd82",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0013: Assigned User changed from \"Anoushka Kashyap\" to \"Harshita Pawar\"; Notes changed from \"Previously used by Khushi Saloni\" to \"Previously used by Khushi Saloni\nPreviously used by Anoushka Kahsyap (Accounts) - till 14/04/2026\". Snapshot: Laptop Name=\"HP\", System Model=\"EliteBook 840 G5\", Gen=\"i5/8th\", Assigned User=\"Harshita Pawar\", Employee ID=\"AGS026\", Department=\"Sales\", RAM=\"8\", ROM=\"512\", Serial Number=\"SCG9166J8H\", Bitdefender Installed=\"Yes\", Policy Name=\"Blank\", Notes=\"Previously used by Khushi Saloni\nPreviously used by Anoushka Kahsyap (Accounts) - till 14/04/2026\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0013",
+    "updated_at": "2026-04-20T11:31:40.412511"
+  },
+  {
+    "id": "6d03a2ca-ab67-41a9-a096-6517e9b6d933",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-20T11:29:54.473736"
+  },
+  {
+    "id": "0312a67c-ff66-4a07-9ef7-29e6b9a0fdc5",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0049: Employee ID changed from \"Blank\" to \"AGS059\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"HP\", System Model=\"Laptop-G1TPJ723\", Gen=\"i3/10th\", Assigned User=\"Nikhil Abhishek\", Employee ID=\"AGS059\", Department=\"Sales\", RAM=\"Blank\", ROM=\"512\", Serial Number=\"5CD547C4S7\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0049",
+    "updated_at": "2026-04-15T16:24:06.418121"
+  },
+  {
+    "id": "081edcca-91aa-462f-8d7e-95ba2164ad26",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0011: Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"HP\", System Model=\"EliteBook 840 G5\", Gen=\"Blank\", Assigned User=\"Anjali Sonawane\", Employee ID=\"AGS025\", Department=\"Sales\", RAM=\"8\", ROM=\"512\", Serial Number=\"5CG9166K1Q\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0011",
+    "updated_at": "2026-04-15T14:22:49.291988"
+  },
+  {
+    "id": "94227946-c826-4612-8209-eefcb6cab630",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0012: Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"HP\", System Model=\"EliteBook 840 G5\", Gen=\"i5/8th\", Assigned User=\"Anmol Bhagwani\", Employee ID=\"AGS007\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"5CG9395KWM\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Previously used by Ranjan Kumar\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0012",
+    "updated_at": "2026-04-15T14:22:39.393871"
+  },
+  {
+    "id": "f74890e2-a3f8-4d4f-9806-b530734c9954",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0014: Policy Name changed from \"Blank\" to \"Marketing\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude E7450\", Gen=\"i7/5th\", Assigned User=\"Anushka Shirsath\", Employee ID=\"AGS005\", Department=\"Marketing\", RAM=\"8\", ROM=\"256\", Serial Number=\"9CHM6C2\", Bitdefender Installed=\"Yes\", Policy Name=\"Marketing\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0014",
+    "updated_at": "2026-04-15T14:22:28.826410"
+  },
+  {
+    "id": "2b9b85f5-87da-4706-b492-9a6db1533414",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0015: Policy Name changed from \"Blank\" to \"Technical Policy\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude 5400\", Gen=\"i5/8th\", Assigned User=\"Akshay Patil\", Employee ID=\"AGS040\", Department=\"Technical\", RAM=\"8\", ROM=\"256\", Serial Number=\"1H6TY33\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical Policy\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0015",
+    "updated_at": "2026-04-15T14:22:22.078954"
+  },
+  {
+    "id": "226fe418-8b9c-4a5e-9872-aa7ce66fd192",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0016: Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"HP\", System Model=\"Pavilion x360\", Gen=\"i3/10th\", Assigned User=\"Irfan Pinjari\", Employee ID=\"AGS050\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"8CG0520C41\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Previously shared by Jui Agarkar\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0016",
+    "updated_at": "2026-04-15T14:22:15.201188"
+  },
+  {
+    "id": "bc80fae9-162a-4fb7-8ec0-6b4c07e11381",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0033: Policy Name changed from \"Blank\" to \"Technical Policy\". Snapshot: Laptop Name=\"Dell\", System Model=\"Blank\", Gen=\"Blank\", Assigned User=\"Shikhar dwivedi\", Employee ID=\"AGS056\", Department=\"Technical\", RAM=\"8\", ROM=\"256\", Serial Number=\"Blank\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical Policy\", Notes=\"Previously used by sahil\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0033",
+    "updated_at": "2026-04-15T14:21:40.845800"
+  },
+  {
+    "id": "407e75f5-43a6-4c77-a3b0-293a002067cd",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0041: Policy Name changed from \"Blank\" to \"Technical Policy 2\". Snapshot: Laptop Name=\"Acer\", System Model=\"TravelMate P214-53\", Gen=\"i5/11th\", Assigned User=\"Suraj Kumar\", Employee ID=\"AGS045\", Department=\"Technical\", RAM=\"16\", ROM=\"512\", Serial Number=\"UNVPNSI044L1263291\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical Policy 2\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0041",
+    "updated_at": "2026-04-15T14:21:14.498412"
+  },
+  {
+    "id": "b13167d9-f4fd-425b-b14c-f6b628630499",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0046: Department changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude 5410\", Gen=\"i5/10th\", Assigned User=\"Yasmin Samad\", Employee ID=\"AGS051\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"FHT34D3\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0046",
+    "updated_at": "2026-04-15T14:20:55.415331"
+  },
+  {
+    "id": "e61adfc0-b776-41f4-a5a1-830a5fa5c148",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-15T14:14:22.057382"
+  },
+  {
+    "id": "f6dc2dbf-271c-412a-aaed-4800bc72ddcc",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0049 for \"HP\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0049",
+    "updated_at": "2026-04-13T10:58:55.226171"
+  },
+  {
+    "id": "9cd0841e-0966-4075-9fe7-7d53ba92ea43",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-13T10:27:06.267262"
+  },
+  {
+    "id": "1874f654-99a6-460a-9517-5a33ffc9c4d2",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-10T16:12:52.862721"
+  },
+  {
+    "id": "ae661ddd-4515-4bca-bcae-1d0b45bb3c92",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-10T16:06:49.653793"
+  },
+  {
+    "id": "808982f1-c94c-4c1e-bd46-7d96b81b8e3e",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T18:00:44.724464"
+  },
+  {
+    "id": "ab029e47-1c20-4072-916e-514e4b201298",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0007: No field-level differences detected, but the laptop record was saved. Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude E5470\", Gen=\"i5/6th\", Assigned User=\"Abhishek Solanki\", Employee ID=\"AGS054\", Department=\"Technical\", RAM=\"12\", ROM=\"256\", Serial Number=\"B1L5LC2\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical Policy\", Notes=\"Old Arvind's Laptop\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0007",
+    "updated_at": "2026-04-09T16:34:02.793469"
+  },
+  {
+    "id": "623e6bdf-b227-4212-ad43-5f38f54b63c9",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T16:05:33.720723"
+  },
+  {
+    "id": "00d8e230-3ca9-4449-8d3d-b14aaca58169",
+    "title": "Logout",
+    "details": "System Administrator logged out.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T16:05:27.696096"
+  },
+  {
+    "id": "ad9fd5fe-0963-490c-b3d9-efc22fb26f7c",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T15:48:57.685081"
+  },
+  {
+    "id": "2fa839b6-0288-477d-b57c-a8bb038689c4",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T15:01:21.980253"
+  },
+  {
+    "id": "9a7c39ad-4a5f-4fae-85f9-0236d2da5e81",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0045: Bitdefender Installed changed from \"No\" to \"Yes\". Snapshot: Laptop Name=\"HP\", System Model=\"EliteBook 840 G5\", Gen=\"i5/8th\", Assigned User=\"Veena Rajesh Nayak\", Employee ID=\"AGS003\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"5CG015FFVH\", Bitdefender Installed=\"Yes\", Policy Name=\"sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0045",
+    "updated_at": "2026-04-09T12:06:43.043398"
+  },
+  {
+    "id": "73ddad6c-6fd8-49cd-b06e-9bda6fd6b1ab",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T11:52:53.449801"
+  },
+  {
+    "id": "e67957e3-b49a-41cd-9dac-097d5e825072",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T11:48:09.982938"
+  },
+  {
+    "id": "690d7480-3c48-42cc-8dc4-cc1c79e28f04",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0033: No field-level differences detected, but the laptop record was saved. Snapshot: Laptop Name=\"Dell\", System Model=\"Blank\", Gen=\"Blank\", Assigned User=\"Shikhar dwivedi\", Employee ID=\"AGS056\", Department=\"Technical\", RAM=\"8\", ROM=\"256\", Serial Number=\"Blank\", Bitdefender Installed=\"Yes\", Policy Name=\"Blank\", Notes=\"Previously used by sahil\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0033",
+    "updated_at": "2026-04-09T11:45:38.740098"
+  },
+  {
+    "id": "d8c36447-07af-4cbe-b17a-fd4c97f83e62",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0033: Department changed from \"Blank\" to \"Technical\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Notes changed from \"Blank\" to \"Previously used by sahil\". Snapshot: Laptop Name=\"Dell\", System Model=\"Blank\", Gen=\"Blank\", Assigned User=\"Shikhar dwivedi\", Employee ID=\"AGS056\", Department=\"Technical\", RAM=\"8\", ROM=\"256\", Serial Number=\"Blank\", Bitdefender Installed=\"Yes\", Policy Name=\"Blank\", Notes=\"Previously used by sahil\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0033",
+    "updated_at": "2026-04-09T11:45:31.515983"
+  },
+  {
+    "id": "260b94c5-928f-4002-8024-bde33f63e237",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T11:44:54.384297"
+  },
+  {
+    "id": "724670b1-9beb-428a-be23-cadd7654c4ed",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0005: System Model changed from \"Blank\" to \"M4\"; RAM changed from \"8\" to \"16\"; Serial Number changed from \"Blank\" to \"M2WPDH6RV2\". Snapshot: Laptop Name=\"MAC\", System Model=\"M4\", Gen=\"Blank\", Assigned User=\"Abhijeet Chauhan\", Employee ID=\"AGS024\", Department=\"Sales\", RAM=\"16\", ROM=\"256\", Serial Number=\"M2WPDH6RV2\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0005",
+    "updated_at": "2026-04-09T11:43:51.588826"
+  },
+  {
+    "id": "6e94ad4d-2d5d-45da-8c55-920299821deb",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0003: Department changed from \"Blank\" to \"Senior Management\"; Policy Name changed from \"Technical\" to \"Marketing\"; Notes changed from \"sdf\" to \"Blank\". Snapshot: Laptop Name=\"MAC\", System Model=\"Blank\", Gen=\"Blank\", Assigned User=\"Abdulaziz\", Employee ID=\"Blank\", Department=\"Senior Management\", RAM=\"Blank\", ROM=\"Blank\", Serial Number=\"Blank\", Bitdefender Installed=\"Yes\", Policy Name=\"Marketing\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0003",
+    "updated_at": "2026-04-09T11:36:51.207579"
+  },
+  {
+    "id": "fa734654-0d85-40aa-87e2-8140a82e93ce",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0004: Assigned User changed from \"Deepak\" to \"Deeppak Renuse\"; Employee ID changed from \"ags004\" to \"AGS004\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"MAC\", System Model=\"Blank\", Gen=\"Blank\", Assigned User=\"Deeppak Renuse\", Employee ID=\"AGS004\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"Blank\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0004",
+    "updated_at": "2026-04-09T11:35:53.393948"
+  },
+  {
+    "id": "ce6468f0-f02d-42bc-894e-ef2fe5ddd881",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0005: Laptop Name changed from \"NA\" to \"MAC\"; Assigned User changed from \"adf\" to \"Abhijeet Chauhan\"; Employee ID changed from \"Blank\" to \"AGS024\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"MAC\", System Model=\"Blank\", Gen=\"Blank\", Assigned User=\"Abhijeet Chauhan\", Employee ID=\"AGS024\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"Blank\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0005",
+    "updated_at": "2026-04-09T11:35:06.228959"
+  },
+  {
+    "id": "6d821171-f59a-4b1b-bc18-67f9ea951d80",
+    "title": "Logout",
+    "details": "System Administrator logged out.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T11:34:50.976151"
+  },
+  {
+    "id": "e8b9f375-a412-465a-a2b8-493b1316335d",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0006: Assigned User changed from \"Blank\" to \"Rockey Passagne\"; Employee ID changed from \"Blank\" to \"AGS001\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"MAC\", System Model=\"Blank\", Gen=\"Blank\", Assigned User=\"Rockey Passagne\", Employee ID=\"AGS001\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"Blank\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0006",
+    "updated_at": "2026-04-09T11:33:43.384893"
+  },
+  {
+    "id": "ffd8e454-e48c-461e-aa77-c3b6ddbb9870",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0048 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0048",
+    "updated_at": "2026-04-09T11:31:12.658993"
+  },
+  {
+    "id": "01c1d58f-5f86-4010-9b4e-09e8b33dcafb",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0047 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0047",
+    "updated_at": "2026-04-09T11:31:03.214320"
+  },
+  {
+    "id": "88d799b9-0946-46ce-bc5c-6d03870613ec",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0002: Assigned User changed from \"Neesha\" to \"Nisha\". Snapshot: Laptop Name=\"MAC\", System Model=\"Blank\", Gen=\"Blank\", Assigned User=\"Nisha\", Employee ID=\"Blank\", Department=\"Blank\", RAM=\"8\", ROM=\"Blank\", Serial Number=\"Blank\", Bitdefender Installed=\"No\", Policy Name=\"Blank\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0002",
+    "updated_at": "2026-04-09T11:29:21.701738"
+  },
+  {
+    "id": "58b7eed6-771c-4dca-b88a-947df6aa2423",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0001: Assigned User changed from \"Abhijit\" to \"Abhijit Rudra\". Snapshot: Laptop Name=\"MAC\", System Model=\"Blank\", Gen=\"Blank\", Assigned User=\"Abhijit Rudra\", Employee ID=\"Blank\", Department=\"Blank\", RAM=\"Blank\", ROM=\"256\", Serial Number=\"Blank\", Bitdefender Installed=\"No\", Policy Name=\"Blank\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0001",
+    "updated_at": "2026-04-09T11:28:16.427388"
+  },
+  {
+    "id": "734667b3-531f-480d-926f-e2c29abe44a3",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T11:27:57.249866"
+  },
+  {
+    "id": "91f1dc88-a9c9-4f23-84a9-5558e988369d",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-09T11:26:51.210775"
+  },
+  {
+    "id": "9053bba2-dcc7-49f8-9f39-5e54f58dfc2e",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0047 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0047",
+    "updated_at": "2026-04-08T17:49:06.511953"
+  },
+  {
+    "id": "5f883142-18c8-463f-8fb2-867ad6401e9c",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0048 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0048",
+    "updated_at": "2026-04-08T17:49:03.016579"
+  },
+  {
+    "id": "26175676-f925-469e-9d3a-aa048f977ba5",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0049 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0049",
+    "updated_at": "2026-04-08T17:48:57.559074"
+  },
+  {
+    "id": "a4ff6617-93d3-49cc-9057-03759f33ffa3",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0051 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0051",
+    "updated_at": "2026-04-08T17:48:55.072414"
+  },
+  {
+    "id": "7deeb7c8-bdb0-4a7e-91bb-9b0d944ef8a2",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0050 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0050",
+    "updated_at": "2026-04-08T17:48:52.306002"
+  },
+  {
+    "id": "d6918bb0-e6d1-484e-ae4e-6e434ff0cd85",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0052 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0052",
+    "updated_at": "2026-04-08T17:48:49.131173"
+  },
+  {
+    "id": "c6ae4246-7937-4e5f-a20f-01aa66230e6b",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0053 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0053",
+    "updated_at": "2026-04-08T17:48:46.190224"
+  },
+  {
+    "id": "4016213b-e3ec-4ee3-b156-b50059b8b25c",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0054 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0054",
+    "updated_at": "2026-04-08T17:48:43.014786"
+  },
+  {
+    "id": "84e9c38c-d6a9-40f0-bab4-5e1ca208bcfb",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0055 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0055",
+    "updated_at": "2026-04-08T17:48:38.343607"
+  },
+  {
+    "id": "c042f9f2-6ab3-42fa-8481-84e5ad1301b0",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0056 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0056",
+    "updated_at": "2026-04-08T17:48:35.059032"
+  },
+  {
+    "id": "0241c89a-1f91-44e1-a85d-6603c7ad338f",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0057 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0057",
+    "updated_at": "2026-04-08T17:48:31.435259"
+  },
+  {
+    "id": "4499d574-4aa2-430b-badd-feaa8dd0da6e",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0058 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0058",
+    "updated_at": "2026-04-08T17:48:26.960072"
+  },
+  {
+    "id": "060bc54b-ea3e-4c51-bd9a-84d24da1e9bd",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0059 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0059",
+    "updated_at": "2026-04-08T17:48:10.070470"
+  },
+  {
+    "id": "15bc09f0-dd41-47e1-baf5-642a79ad3d7f",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0060 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0060",
+    "updated_at": "2026-04-08T17:48:05.853920"
+  },
+  {
+    "id": "ac29d5dc-7b80-47d1-a2a7-9ce9f5ec5101",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-08T17:47:48.398442"
+  },
+  {
+    "id": "2cb6d317-5759-4073-804b-6bde869eb5d9",
+    "title": "Logout",
+    "details": "System Administrator logged out.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-08T17:17:40.821832"
+  },
+  {
+    "id": "27229fa3-d143-4d48-9c0a-aae09c2e3d70",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0041: Laptop Name changed from \"ACER\" to \"Acer\"; Gen changed from \"Blank\" to \"i5/11th\"; Department changed from \"Blank\" to \"Technical\"; Policy Name changed from \"Technical 2\" to \"Blank\". Snapshot: Laptop Name=\"Acer\", System Model=\"TravelMate P214-53\", Gen=\"i5/11th\", Assigned User=\"Suraj Kumar\", Employee ID=\"AGS045\", Department=\"Technical\", RAM=\"16\", ROM=\"512\", Serial Number=\"UNVPNSI044L1263291\", Bitdefender Installed=\"Yes\", Policy Name=\"Blank\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0041",
+    "updated_at": "2026-04-08T17:15:56.281861"
+  },
+  {
+    "id": "9fd6a43c-6f8a-49fa-b588-718f53c65545",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0041: Laptop Name changed from \"Dell\" to \"ACER\"; System Model changed from \"Blank\" to \"TravelMate P214-53\"; Assigned User changed from \"Blank\" to \"Suraj Kumar\"; Employee ID changed from \"Blank\" to \"AGS045\"; RAM changed from \"Blank\" to \"16\"; ROM changed from \"Blank\" to \"512\"; Serial Number changed from \"Blank\" to \"UNVPNSI044L1263291\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Technical 2\". Snapshot: Laptop Name=\"ACER\", System Model=\"TravelMate P214-53\", Gen=\"Blank\", Assigned User=\"Suraj Kumar\", Employee ID=\"AGS045\", Department=\"Blank\", RAM=\"16\", ROM=\"512\", Serial Number=\"UNVPNSI044L1263291\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical 2\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0041",
+    "updated_at": "2026-04-08T17:05:56.569232"
+  },
+  {
+    "id": "6860e393-f66a-4bb0-883e-6ccf77e37091",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0042: System Model changed from \"Blank\" to \"Latitude E5470\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Suraj Neupane\"; Employee ID changed from \"Blank\" to \"AGS008\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"8TN1L72\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"sales\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude E5470\", Gen=\"i5/8th\", Assigned User=\"Suraj Neupane\", Employee ID=\"AGS008\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"8TN1L72\", Bitdefender Installed=\"Yes\", Policy Name=\"sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0042",
+    "updated_at": "2026-04-08T17:04:08.128575"
+  },
+  {
+    "id": "1a72af7d-9ffc-4d53-a28d-9539a855a426",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0040: System Model changed from \"Blank\" to \"Latitude 5400\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Sunil Mainkar\"; Employee ID changed from \"Blank\" to \"AGS048\"; Department changed from \"Blank\" to \"Marketing\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"2QGH433\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Marketing\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude 5400\", Gen=\"i5/8th\", Assigned User=\"Sunil Mainkar\", Employee ID=\"AGS048\", Department=\"Marketing\", RAM=\"8\", ROM=\"256\", Serial Number=\"2QGH433\", Bitdefender Installed=\"Yes\", Policy Name=\"Marketing\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0040",
+    "updated_at": "2026-04-08T16:59:30.505415"
+  },
+  {
+    "id": "9c8b72c8-b0fa-48d0-bfc4-171edb0effe0",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0039: Laptop Name changed from \"Dell\" to \"Acer\"; System Model changed from \"Blank\" to \"Aspire AG14-71M\"; Assigned User changed from \"Blank\" to \"Soumya Ranjan Swain\"; Employee ID changed from \"Blank\" to \"AGS029\"; Department changed from \"Blank\" to \"Technical\"; RAM changed from \"Blank\" to \"16\"; ROM changed from \"Blank\" to \"512\"; Serial Number changed from \"Blank\" to \"NXJF5SI00152900AD19601\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Technical Policy\". Snapshot: Laptop Name=\"Acer\", System Model=\"Aspire AG14-71M\", Gen=\"Blank\", Assigned User=\"Soumya Ranjan Swain\", Employee ID=\"AGS029\", Department=\"Technical\", RAM=\"16\", ROM=\"512\", Serial Number=\"NXJF5SI00152900AD19601\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical Policy\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0039",
+    "updated_at": "2026-04-08T16:57:47.672455"
+  },
+  {
+    "id": "0867b793-c8d6-432e-9713-600d51b411b0",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0043: System Model changed from \"Blank\" to \"Latitude E7450\"; Gen changed from \"Blank\" to \"i7/5th\"; Assigned User changed from \"Blank\" to \"Sahil Kumar\"; Employee ID changed from \"Blank\" to \"AGS021\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"FC3C152\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude E7450\", Gen=\"i7/5th\", Assigned User=\"Sahil Kumar\", Employee ID=\"AGS021\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"FC3C152\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0043",
+    "updated_at": "2026-04-08T16:55:42.645666"
+  },
+  {
+    "id": "0d908aff-d8ca-4fd6-a8f7-6411c8a498ee",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0038: System Model changed from \"Blank\" to \"EliteBook 840 G6\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Somridh Rudra\"; Employee ID changed from \"Blank\" to \"AGS010\"; Department changed from \"Blank\" to \"Technical\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"5CG01003JG\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Technical Policy\". Snapshot: Laptop Name=\"Dell\", System Model=\"EliteBook 840 G6\", Gen=\"i5/8th\", Assigned User=\"Somridh Rudra\", Employee ID=\"AGS010\", Department=\"Technical\", RAM=\"8\", ROM=\"256\", Serial Number=\"5CG01003JG\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical Policy\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0038",
+    "updated_at": "2026-04-08T16:51:13.107884"
+  },
+  {
+    "id": "4f5dd9d1-8f6e-4cee-ab38-37c375702f95",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0044: System Model changed from \"Blank\" to \"Latitude 5400\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Vaibhav Sapkal\"; Employee ID changed from \"Blank\" to \"AGS030\"; Department changed from \"Blank\" to \"Technical\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"HK7TY33\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Technical\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude 5400\", Gen=\"i5/8th\", Assigned User=\"Vaibhav Sapkal\", Employee ID=\"AGS030\", Department=\"Technical\", RAM=\"8\", ROM=\"256\", Serial Number=\"HK7TY33\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0044",
+    "updated_at": "2026-04-08T16:50:07.470279"
+  },
+  {
+    "id": "f6f1cf3d-53ec-48fe-ac38-19634c44c720",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0037: System Model changed from \"Blank\" to \"Latitude E7450\"; Gen changed from \"Blank\" to \"i7/5th\"; Assigned User changed from \"Blank\" to \"Shruti Khuperkar\"; Employee ID changed from \"Blank\" to \"AGS028\"; Department changed from \"Blank\" to \"Marketing\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"9C4C152\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Marketing\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude E7450\", Gen=\"i7/5th\", Assigned User=\"Shruti Khuperkar\", Employee ID=\"AGS028\", Department=\"Marketing\", RAM=\"8\", ROM=\"256\", Serial Number=\"9C4C152\", Bitdefender Installed=\"Yes\", Policy Name=\"Marketing\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0037",
+    "updated_at": "2026-04-08T16:49:28.443999"
+  },
+  {
+    "id": "6016bc65-0fca-4723-b3c9-7cd8b005da25",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0036: Laptop Name changed from \"Dell\" to \"HP\"; System Model changed from \"Blank\" to \"EliteBook 840 G6\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Shalaka Zunjarrao\"; Employee ID changed from \"Blank\" to \"AGS011\"; Department changed from \"Blank\" to \"Marketing\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"5CG9395L8S\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Marketing\". Snapshot: Laptop Name=\"HP\", System Model=\"EliteBook 840 G6\", Gen=\"i5/8th\", Assigned User=\"Shalaka Zunjarrao\", Employee ID=\"AGS011\", Department=\"Marketing\", RAM=\"8\", ROM=\"256\", Serial Number=\"5CG9395L8S\", Bitdefender Installed=\"Yes\", Policy Name=\"Marketing\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0036",
+    "updated_at": "2026-04-08T16:48:27.399546"
+  },
+  {
+    "id": "00addb3f-ee8c-4c59-8013-800c75761860",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0045: Laptop Name changed from \"Dell\" to \"HP\"; System Model changed from \"Blank\" to \"EliteBook 840 G5\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Veena Rajesh Nayak\"; Employee ID changed from \"Blank\" to \"AGS003\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"5CG015FFVH\"; Policy Name changed from \"Blank\" to \"sales\". Snapshot: Laptop Name=\"HP\", System Model=\"EliteBook 840 G5\", Gen=\"i5/8th\", Assigned User=\"Veena Rajesh Nayak\", Employee ID=\"AGS003\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"5CG015FFVH\", Bitdefender Installed=\"No\", Policy Name=\"sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0045",
+    "updated_at": "2026-04-08T16:47:53.475533"
+  },
+  {
+    "id": "254613b0-345d-4ebf-bccc-d1c3ab413697",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0035: Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Ritesh Mane\"; Employee ID changed from \"Blank\" to \"AGS041\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Sales\"; Notes changed from \"Blank\" to \"Previously used by Santosh Jha\". Snapshot: Laptop Name=\"Dell\", System Model=\"Blank\", Gen=\"i5/8th\", Assigned User=\"Ritesh Mane\", Employee ID=\"AGS041\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"Blank\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Previously used by Santosh Jha\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0035",
+    "updated_at": "2026-04-08T16:46:24.605936"
+  },
+  {
+    "id": "0dd97cb7-779f-448f-8248-7df1c71fa5bf",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0046: System Model changed from \"Blank\" to \"Latitude 5410\"; Gen changed from \"Blank\" to \"i5/10th\"; Assigned User changed from \"Blank\" to \"Yasmin Samad\"; Employee ID changed from \"Blank\" to \"AGS051\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"FHT34D3\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude 5410\", Gen=\"i5/10th\", Assigned User=\"Yasmin Samad\", Employee ID=\"AGS051\", Department=\"Blank\", RAM=\"8\", ROM=\"256\", Serial Number=\"FHT34D3\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0046",
+    "updated_at": "2026-04-08T16:45:41.189630"
+  },
+  {
+    "id": "792451b1-a09b-4919-a71f-941f5d395860",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0034: System Model changed from \"Blank\" to \"Latitude 5400\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Sanchari Das\"; Employee ID changed from \"Blank\" to \"AGS046\"; Department changed from \"Blank\" to \"Technical\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"C0YNP13\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Technical Policy\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude 5400\", Gen=\"i5/8th\", Assigned User=\"Sanchari Das\", Employee ID=\"AGS046\", Department=\"Technical\", RAM=\"8\", ROM=\"256\", Serial Number=\"C0YNP13\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical Policy\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0034",
+    "updated_at": "2026-04-08T16:43:07.734827"
+  },
+  {
+    "id": "058cd7e2-8de0-4c0b-aa36-64e7efc99b43",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0033: Assigned User changed from \"Blank\" to \"Shikhar dwivedi\"; Employee ID changed from \"Blank\" to \"AGS056\". Snapshot: Laptop Name=\"Dell\", System Model=\"Blank\", Gen=\"Blank\", Assigned User=\"Shikhar dwivedi\", Employee ID=\"AGS056\", Department=\"Blank\", RAM=\"Blank\", ROM=\"Blank\", Serial Number=\"Blank\", Bitdefender Installed=\"No\", Policy Name=\"Blank\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0033",
+    "updated_at": "2026-04-08T16:41:32.069035"
+  },
+  {
+    "id": "405bf410-d7da-4a85-bc75-2ae799b36ec7",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0060 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0060",
+    "updated_at": "2026-04-08T16:41:11.853793"
+  },
+  {
+    "id": "74d1c9e3-3b04-4d91-8fb6-675e044af6ac",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0059 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0059",
+    "updated_at": "2026-04-08T16:41:06.590317"
+  },
+  {
+    "id": "dc177209-d944-4d98-b36f-10054a66f206",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0058 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0058",
+    "updated_at": "2026-04-08T16:41:01.419226"
+  },
+  {
+    "id": "83c0a183-f6ae-4fc5-b551-f9ada482e980",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0057 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0057",
+    "updated_at": "2026-04-08T16:40:56.397168"
+  },
+  {
+    "id": "d3c5626a-f4ce-49cb-8f94-027ecc7a3b63",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0056 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0056",
+    "updated_at": "2026-04-08T16:40:52.091254"
+  },
+  {
+    "id": "b066526d-fec2-4ea1-93b1-42dd9f1e92a9",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0055 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0055",
+    "updated_at": "2026-04-08T16:40:47.696039"
+  },
+  {
+    "id": "95e767fc-7d41-45bb-84f1-6a2fe04c0697",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0054 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0054",
+    "updated_at": "2026-04-08T16:40:42.781679"
+  },
+  {
+    "id": "7acb2181-f727-4487-bee0-19ab7af97f7f",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0053 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0053",
+    "updated_at": "2026-04-08T16:40:38.029628"
+  },
+  {
+    "id": "4effcbe6-97a7-440a-b1be-ec62009ee492",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0052 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0052",
+    "updated_at": "2026-04-08T16:40:32.840932"
+  },
+  {
+    "id": "b671415b-d748-4489-949f-6609efe72f84",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0051 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0051",
+    "updated_at": "2026-04-08T16:40:28.329940"
+  },
+  {
+    "id": "18c1b262-a370-4e9c-839f-9f296f389b82",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-08T16:40:21.825193"
+  },
+  {
+    "id": "5ab7aa57-96c3-45f1-8e7b-6541d1a39507",
+    "title": "Logout",
+    "details": "System Administrator logged out.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-08T16:40:16.341330"
+  },
+  {
+    "id": "18adf9ba-2bc3-49b1-900f-5b7e1d147790",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0050 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0050",
+    "updated_at": "2026-04-08T16:39:58.681708"
+  },
+  {
+    "id": "895af3f7-5b4d-462e-9163-9dd7176ffb67",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0049 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0049",
+    "updated_at": "2026-04-08T16:39:50.105361"
+  },
+  {
+    "id": "ab057051-d6bf-4cc8-b6ed-ccc1ec8d4987",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0048 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0048",
+    "updated_at": "2026-04-08T16:39:45.750693"
+  },
+  {
+    "id": "630e70cd-f82d-48ec-9f40-a2825454027a",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0047 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0047",
+    "updated_at": "2026-04-08T16:39:40.925612"
+  },
+  {
+    "id": "9bb334d1-30ee-4fde-b2ba-daec52758d63",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0046 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0046",
+    "updated_at": "2026-04-08T16:39:36.114033"
+  },
+  {
+    "id": "ef958b5c-2dbf-42c9-ad07-09c2ef27e307",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0045 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0045",
+    "updated_at": "2026-04-08T16:39:30.250207"
+  },
+  {
+    "id": "10aaa207-fc12-4bd8-91ff-522b9937bcf1",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0044 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0044",
+    "updated_at": "2026-04-08T16:39:25.435556"
+  },
+  {
+    "id": "2b093a9c-fee7-4015-81ac-d858389c22ca",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0043 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0043",
+    "updated_at": "2026-04-08T16:39:21.129737"
+  },
+  {
+    "id": "61dda938-bdb0-466b-97fa-a2fb5e1bd110",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0042 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0042",
+    "updated_at": "2026-04-08T16:39:16.866249"
+  },
+  {
+    "id": "48d82b08-19ee-4292-b906-2edcd84abe7a",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0041 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0041",
+    "updated_at": "2026-04-08T16:39:12.255333"
+  },
+  {
+    "id": "e1dc4a8e-14d9-4b98-b724-7e22684add78",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0040 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0040",
+    "updated_at": "2026-04-08T16:39:07.033384"
+  },
+  {
+    "id": "1dfd4de4-e840-44c2-98ad-b3f3217a2862",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0039 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0039",
+    "updated_at": "2026-04-08T16:39:01.808857"
+  },
+  {
+    "id": "8231786f-cd2b-4554-802f-19f0ae4d48df",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0038 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0038",
+    "updated_at": "2026-04-08T16:38:56.900383"
+  },
+  {
+    "id": "c3355111-f2d2-409b-98b8-46dbcca6c11e",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0037 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0037",
+    "updated_at": "2026-04-08T16:38:51.637633"
+  },
+  {
+    "id": "175c8f62-e702-49eb-84c6-27927d9ffe76",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0036 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0036",
+    "updated_at": "2026-04-08T16:38:45.849750"
+  },
+  {
+    "id": "37fbdd5d-43df-427f-83ec-0316e7889b44",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0035 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0035",
+    "updated_at": "2026-04-08T16:38:40.723059"
+  },
+  {
+    "id": "3dbeddf2-f512-43f7-a27d-8ec7953ae199",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0034 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0034",
+    "updated_at": "2026-04-08T16:38:29.961482"
+  },
+  {
+    "id": "8cfdedba-36f3-4af5-841b-f08b0775492f",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0033 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0033",
+    "updated_at": "2026-04-08T16:38:22.807388"
+  },
+  {
+    "id": "6f053db1-31a2-4c58-803b-3d67d74d10e4",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0032 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0032",
+    "updated_at": "2026-04-08T16:36:02.806437"
+  },
+  {
+    "id": "0acc13f0-8d7d-470a-93a1-175e8855e3c8",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0031 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0031",
+    "updated_at": "2026-04-08T16:35:02.016974"
+  },
+  {
+    "id": "c887e57c-e436-4a14-9dc3-667dff2b59aa",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0030 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0030",
+    "updated_at": "2026-04-08T16:34:30.991262"
+  },
+  {
+    "id": "296580c9-8b9d-434b-a508-0d236619ae88",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0029 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0029",
+    "updated_at": "2026-04-08T16:33:20.222363"
+  },
+  {
+    "id": "a8d8dd00-b7e6-4ffd-b8bd-fb3ce39781e1",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0028 for \"Acer\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0028",
+    "updated_at": "2026-04-08T16:24:18.991647"
+  },
+  {
+    "id": "1a15cde6-7200-4939-859c-0607eec5790a",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0027 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0027",
+    "updated_at": "2026-04-08T16:22:13.296155"
+  },
+  {
+    "id": "3c6e90ee-6d97-46fa-9470-aad9793b8dc8",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0026 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0026",
+    "updated_at": "2026-04-08T15:55:21.704316"
+  },
+  {
+    "id": "6f38334c-8683-4c60-b97e-09b8f65363db",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0022: System Model changed from \"Blank\" to \"HP Laptop 14-gr0xxx\". Snapshot: Laptop Name=\"HP\", System Model=\"HP Laptop 14-gr0xxx\", Gen=\"i5\", Assigned User=\"Mayur Kawle\", Employee ID=\"AGS027\", Department=\"Sales\", RAM=\"16\", ROM=\"512\", Serial Number=\"5CG5423PNY\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0022",
+    "updated_at": "2026-04-08T15:54:22.001232"
+  },
+  {
+    "id": "206869da-1b13-429a-9c27-51294d99c81d",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0025: Laptop Name changed from \"Prakash Kumar\" to \"Dell\"; System Model changed from \"Blank\" to \"Latitude E7450\"; Gen changed from \"Blank\" to \"i7/5th\"; Assigned User changed from \"Blank\" to \"Prakash Kumar\"; Employee ID changed from \"Blank\" to \"AGS037\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"1RVM6C2\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude E7450\", Gen=\"i7/5th\", Assigned User=\"Prakash Kumar\", Employee ID=\"AGS037\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"1RVM6C2\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0025",
+    "updated_at": "2026-04-08T15:53:26.925701"
+  },
+  {
+    "id": "4b9d5096-de7b-4abe-8153-1642af6ef9e8",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0025 for \"Prakash Kumar\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0025",
+    "updated_at": "2026-04-08T15:47:58.479430"
+  },
+  {
+    "id": "1534e192-1320-47ee-a6a3-9c77e4689ac9",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0024 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0024",
+    "updated_at": "2026-04-08T15:47:26.335750"
+  },
+  {
+    "id": "f9497e71-429a-4caf-8c6a-d19479cc3ec7",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0023 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0023",
+    "updated_at": "2026-04-08T15:44:44.939672"
+  },
+  {
+    "id": "88b4a57d-ecac-4b69-af39-d05de462aef8",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0022: Laptop Name changed from \"Mayur Kawle\" to \"HP\"; Gen changed from \"Blank\" to \"i5\"; Assigned User changed from \"Blank\" to \"Mayur Kawle\"; Employee ID changed from \"Blank\" to \"AGS027\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"16\"; ROM changed from \"Blank\" to \"512\"; Serial Number changed from \"Blank\" to \"5CG5423PNY\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Sales\". Snapshot: Laptop Name=\"HP\", System Model=\"Blank\", Gen=\"i5\", Assigned User=\"Mayur Kawle\", Employee ID=\"AGS027\", Department=\"Sales\", RAM=\"16\", ROM=\"512\", Serial Number=\"5CG5423PNY\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0022",
+    "updated_at": "2026-04-08T15:42:57.250666"
+  },
+  {
+    "id": "312d7838-98a1-4873-8430-eb31b9ae56bd",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0006 for \"MAC\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0006",
+    "updated_at": "2026-04-08T15:33:19.349962"
+  },
+  {
+    "id": "01c8edd8-42d8-4b0f-8bff-ad9cfbac6d41",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0021: System Model changed from \"Blank\" to \"Latitude 5490\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Swati Murkute Jaishankar\"; Employee ID changed from \"Blank\" to \"AGS019\"; Department changed from \"Blank\" to \"Marketing\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"3FD1RV2\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Marketing\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude 5490\", Gen=\"i5/8th\", Assigned User=\"Swati Murkute Jaishankar\", Employee ID=\"AGS019\", Department=\"Marketing\", RAM=\"8\", ROM=\"256\", Serial Number=\"3FD1RV2\", Bitdefender Installed=\"Yes\", Policy Name=\"Marketing\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0021",
+    "updated_at": "2026-04-08T15:29:12.830685"
+  },
+  {
+    "id": "f1d07296-0b6d-494d-adec-8d8cf37fae52",
+    "title": "Laptop Deleted",
+    "details": "System Administrator deleted AGS0023 for \"neeraj gurung\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0023",
+    "updated_at": "2026-04-08T15:27:48.655781"
+  },
+  {
+    "id": "e728da3a-42ea-4b23-8a0c-fa5eab426e39",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0023 for \"neeraj gurung\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0023",
+    "updated_at": "2026-04-08T15:26:47.991177"
+  },
+  {
+    "id": "8edf9f16-ee5a-4fef-85f7-bf8ac9b03fad",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0020: Laptop Name changed from \"Dell\" to \"HP\"; System Model changed from \"Blank\" to \"EliteBook 840 G5\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Santosh Jha\"; Employee ID changed from \"Blank\" to \"AGS033\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"5CG9166J3G\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Sales\"; Notes changed from \"Blank\" to \"Previously used by Mahesh\". Snapshot: Laptop Name=\"HP\", System Model=\"EliteBook 840 G5\", Gen=\"i5/8th\", Assigned User=\"Santosh Jha\", Employee ID=\"AGS033\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"5CG9166J3G\", Bitdefender Installed=\"Yes\", Policy Name=\"Sales\", Notes=\"Previously used by Mahesh\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0020",
+    "updated_at": "2026-04-08T15:26:22.431366"
+  },
+  {
+    "id": "20d1a03c-9d91-4a36-992f-b39d6d77c606",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0022 for \"Mayur Kawle\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0022",
+    "updated_at": "2026-04-08T15:26:16.557826"
+  },
+  {
+    "id": "acaf59bc-bd43-43de-b950-9da24f357d0d",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0019: Laptop Name changed from \"Dell\" to \"Acer\"; System Model changed from \"Blank\" to \"TravelMate P214-53\"; Gen changed from \"Blank\" to \"i5/11th\"; Assigned User changed from \"Blank\" to \"Khushi Saloni\"; Employee ID changed from \"Blank\" to \"AGS022\"; Department changed from \"Blank\" to \"Technical\"; RAM changed from \"Blank\" to \"16\"; ROM changed from \"Blank\" to \"512\"; Serial Number changed from \"Blank\" to \"UNVPMSI013L3769337\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Technical Policy\"; Notes changed from \"Blank\" to \"Previously used by Pramesh Palkonda.\". Snapshot: Laptop Name=\"Acer\", System Model=\"TravelMate P214-53\", Gen=\"i5/11th\", Assigned User=\"Khushi Saloni\", Employee ID=\"AGS022\", Department=\"Technical\", RAM=\"16\", ROM=\"512\", Serial Number=\"UNVPMSI013L3769337\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical Policy\", Notes=\"Previously used by Pramesh Palkonda.\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0019",
+    "updated_at": "2026-04-08T15:24:17.308868"
+  },
+  {
+    "id": "57454715-7f3c-4a03-8a52-3df201cc9dd4",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-08T15:22:26.558699"
+  },
+  {
+    "id": "ed5e18ee-e91d-426c-998d-12cac0b8dec0",
+    "title": "Logout",
+    "details": "System Administrator logged out.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-08T15:22:12.690349"
+  },
+  {
+    "id": "f75b3def-d6a7-42fc-9186-9c39eba35b67",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0021 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0021",
+    "updated_at": "2026-04-08T15:11:56.673488"
+  },
+  {
+    "id": "5f01f719-799f-4ec8-8c15-d5ceec4861e8",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0020 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0020",
+    "updated_at": "2026-04-08T15:11:49.076121"
+  },
+  {
+    "id": "3f70ced2-be4b-48f8-aecb-20cd0a3bb994",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0019 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0019",
+    "updated_at": "2026-04-08T15:11:43.090813"
+  },
+  {
+    "id": "fd9cb794-f0e0-4922-a75b-ef77ab1826f6",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0018 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0018",
+    "updated_at": "2026-04-08T12:57:55.208785"
+  },
+  {
+    "id": "88326f8f-0760-4b3c-a1f3-abefd9f0652c",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0017: Laptop Name changed from \"HP\" to \"Dell\"; System Model changed from \"Blank\" to \"Latitude 5400\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Janhvi Chaudhari\"; Employee ID changed from \"Blank\" to \"AGS055\"; Department changed from \"Blank\" to \"Technical\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"FT33Y33\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Notes changed from \"Blank\" to \"Previously used by Kaustubh Maske\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude 5400\", Gen=\"i5/8th\", Assigned User=\"Janhvi Chaudhari\", Employee ID=\"AGS055\", Department=\"Technical\", RAM=\"8\", ROM=\"256\", Serial Number=\"FT33Y33\", Bitdefender Installed=\"Yes\", Policy Name=\"Blank\", Notes=\"Previously used by Kaustubh Maske\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0017",
+    "updated_at": "2026-04-08T12:56:15.168078"
+  },
+  {
+    "id": "5db9deeb-208c-44f3-b09a-5bff9b14e13a",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0009: Bitdefender Installed changed from \"No\" to \"Yes\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude 5410\", Gen=\"i5/10th\", Assigned User=\"akhil kumar khatri\", Employee ID=\"AGS050\", Department=\"Technical\", RAM=\"8\", ROM=\"256\", Serial Number=\"F6NSP73\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0009",
+    "updated_at": "2026-04-08T12:30:25.115661"
+  },
+  {
+    "id": "2fe8054e-c62b-4e6a-94b8-6922694d78d3",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0017 for \"HP\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0017",
+    "updated_at": "2026-04-08T12:29:57.331129"
+  },
+  {
+    "id": "3c78f176-09cc-49f2-8470-53fb009d36bf",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0016 for \"HP\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0016",
+    "updated_at": "2026-04-08T12:27:02.941804"
+  },
+  {
+    "id": "10b1a02f-a619-4ab8-8ce5-2af921ad3a54",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0015 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0015",
+    "updated_at": "2026-04-08T12:13:36.307468"
+  },
+  {
+    "id": "b591b93d-d9a0-4464-8401-ab129b0006cf",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0014: System Model changed from \"Latitude 5400\" to \"Latitude E7450\"; Gen changed from \"i5/8th\" to \"i7/5th\"; Assigned User changed from \"Akshay Patil\" to \"Anushka Shirsath\"; Employee ID changed from \"AGS040\" to \"AGS005\"; Department changed from \"Technical\" to \"Marketing\"; Serial Number changed from \"1H6TY33\" to \"9CHM6C2\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude E7450\", Gen=\"i7/5th\", Assigned User=\"Anushka Shirsath\", Employee ID=\"AGS005\", Department=\"Marketing\", RAM=\"8\", ROM=\"256\", Serial Number=\"9CHM6C2\", Bitdefender Installed=\"Yes\", Policy Name=\"Blank\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0014",
+    "updated_at": "2026-04-08T12:11:58.076929"
+  },
+  {
+    "id": "1b9009ec-66ab-46b3-bbfe-3ecb370f963c",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0013: Laptop Name changed from \"Dell\" to \"HP\"; System Model changed from \"Latitude E7450\" to \"EliteBook 840 G5\"; Gen changed from \"i7/5th\" to \"i5/8th\"; Employee ID changed from \"AGS005\" to \"AGS026\"; Department changed from \"Marketing\" to \"Sales\"; ROM changed from \"256\" to \"512\"; Serial Number changed from \"9CHM6C2\" to \"SCG9166J8H\"; Notes changed from \"Blank\" to \"Previously used by Khushi Saloni\". Snapshot: Laptop Name=\"HP\", System Model=\"EliteBook 840 G5\", Gen=\"i5/8th\", Assigned User=\"Anoushka Kashyap\", Employee ID=\"AGS026\", Department=\"Sales\", RAM=\"8\", ROM=\"512\", Serial Number=\"SCG9166J8H\", Bitdefender Installed=\"Yes\", Policy Name=\"Blank\", Notes=\"Previously used by Khushi Saloni\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0013",
+    "updated_at": "2026-04-08T12:07:11.832447"
+  },
+  {
+    "id": "86873fb9-c721-4c36-8fee-f66f408a7b3f",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0012: Laptop Name changed from \"Dell\" to \"HP\"; System Model changed from \"Blank\" to \"EliteBook 840 G5\"; Gen changed from \"Blank\" to \"i5/8th\"; Assigned User changed from \"Blank\" to \"Anmol Bhagwani\"; Employee ID changed from \"Blank\" to \"AGS007\"; Department changed from \"Blank\" to \"Sales\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"5CG9395KWM\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Notes changed from \"Blank\" to \"Previously used by Ranjan Kumar\". Snapshot: Laptop Name=\"HP\", System Model=\"EliteBook 840 G5\", Gen=\"i5/8th\", Assigned User=\"Anmol Bhagwani\", Employee ID=\"AGS007\", Department=\"Sales\", RAM=\"8\", ROM=\"256\", Serial Number=\"5CG9395KWM\", Bitdefender Installed=\"Yes\", Policy Name=\"Blank\", Notes=\"Previously used by Ranjan Kumar\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0012",
+    "updated_at": "2026-04-08T12:05:16.941275"
+  },
+  {
+    "id": "c4f5c83f-d9f7-4f7b-9b9e-c9bb5830798b",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0014 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0014",
+    "updated_at": "2026-04-08T11:57:04.281889"
+  },
+  {
+    "id": "d62bcc06-7067-4af5-9f6b-dd6082bf36e3",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0013 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0013",
+    "updated_at": "2026-04-08T11:55:37.177285"
+  },
+  {
+    "id": "b14e57dd-15fa-4eed-a233-cc1b168aaf43",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0012 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0012",
+    "updated_at": "2026-04-08T11:53:33.940439"
+  },
+  {
+    "id": "1528dd6a-171c-41cd-be2d-d6556efab711",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0011 for \"HP\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0011",
+    "updated_at": "2026-04-08T11:50:52.276345"
+  },
+  {
+    "id": "16dc65bd-111d-4593-b303-934033fcea84",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0009: Laptop Name changed from \"111\" to \"Dell\"; System Model changed from \"Blank\" to \"Latitude 5410\"; Gen changed from \"Blank\" to \"i5/10th\"; Assigned User changed from \"Blank\" to \"akhil kumar khatri\"; Employee ID changed from \"Blank\" to \"AGS050\"; Department changed from \"Blank\" to \"Technical\"; RAM changed from \"Blank\" to \"8\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"F6NSP73\"; Policy Name changed from \"Blank\" to \"Technical\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude 5410\", Gen=\"i5/10th\", Assigned User=\"akhil kumar khatri\", Employee ID=\"AGS050\", Department=\"Technical\", RAM=\"8\", ROM=\"256\", Serial Number=\"F6NSP73\", Bitdefender Installed=\"No\", Policy Name=\"Technical\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0009",
+    "updated_at": "2026-04-08T11:45:34.176952"
+  },
+  {
+    "id": "c53a10f6-5eb6-4041-9c9b-926e5c86f370",
+    "title": "Laptop Created",
+    "details": "System Administrator created AGS0010 for \"Dell\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0010",
+    "updated_at": "2026-04-08T11:44:03.328450"
+  },
+  {
+    "id": "2041001e-6a0e-43c5-afed-1903ec65b715",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-08T11:40:15.265222"
+  },
+  {
+    "id": "724fc3c0-69ab-4d6f-a629-f35c1ec1b4be",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0008: Laptop Name changed from \"NA\" to \"Lenovo ThinkPad\"; System Model changed from \"Blank\" to \"20L7S2G100\"; Gen changed from \"Blank\" to \"i7/8th\"; Assigned User changed from \"Blank\" to \"Abhijeet Bhattacharjee\"; Employee ID changed from \"Blank\" to \"AGS031\"; Department changed from \"Blank\" to \"Technical\"; RAM changed from \"Blank\" to \"16\"; ROM changed from \"Blank\" to \"512\"; Serial Number changed from \"Blank\" to \"PC12AL1W\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Policy Name changed from \"Blank\" to \"Technical Policy\". Snapshot: Laptop Name=\"Lenovo ThinkPad\", System Model=\"20L7S2G100\", Gen=\"i7/8th\", Assigned User=\"Abhijeet Bhattacharjee\", Employee ID=\"AGS031\", Department=\"Technical\", RAM=\"16\", ROM=\"512\", Serial Number=\"PC12AL1W\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical Policy\", Notes=\"Blank\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0008",
+    "updated_at": "2026-04-08T11:39:18.682498"
+  },
+  {
+    "id": "7447e39e-d7fc-43c0-8682-e4ef0fa6a419",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0007: Policy Name changed from \"Blank\" to \"Technical Policy\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude E5470\", Gen=\"i5/6th\", Assigned User=\"Abhishek Solanki\", Employee ID=\"AGS054\", Department=\"Technical\", RAM=\"12\", ROM=\"256\", Serial Number=\"B1L5LC2\", Bitdefender Installed=\"Yes\", Policy Name=\"Technical Policy\", Notes=\"Old Arvind's Laptop\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0007",
+    "updated_at": "2026-04-08T11:36:57.397714"
+  },
+  {
+    "id": "89cee40f-c7aa-41e0-8a3f-2ae43f2463ce",
+    "title": "Laptop Update",
+    "details": "System Administrator saved AGS0007: Laptop Name changed from \"NA\" to \"Dell\"; System Model changed from \"Blank\" to \"Latitude E5470\"; Gen changed from \"Blank\" to \"i5/6th\"; Assigned User changed from \"Blank\" to \"Abhishek Solanki\"; Employee ID changed from \"Blank\" to \"AGS054\"; Department changed from \"Blank\" to \"Technical\"; RAM changed from \"Blank\" to \"12\"; ROM changed from \"Blank\" to \"256\"; Serial Number changed from \"Blank\" to \"B1L5LC2\"; Bitdefender Installed changed from \"No\" to \"Yes\"; Notes changed from \"Blank\" to \"Old Arvind's Laptop\". Snapshot: Laptop Name=\"Dell\", System Model=\"Latitude E5470\", Gen=\"i5/6th\", Assigned User=\"Abhishek Solanki\", Employee ID=\"AGS054\", Department=\"Technical\", RAM=\"12\", ROM=\"256\", Serial Number=\"B1L5LC2\", Bitdefender Installed=\"Yes\", Policy Name=\"Blank\", Notes=\"Old Arvind's Laptop\".",
+    "actor": "System Administrator",
+    "asset_id": "AGS0007",
+    "updated_at": "2026-04-08T11:36:33.472708"
+  },
+  {
+    "id": "f68297e4-95d8-4d40-9845-64584ec78eab",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-08T10:58:17.008955"
+  },
+  {
+    "id": "a2b7127c-8c90-4354-8ac2-745f7d839c93",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-07T17:51:14.535502"
+  },
+  {
+    "id": "33e83658-2372-4f29-aad6-2e2c2b6f21ae",
+    "title": "Logout",
+    "details": "System Administrator logged out.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-07T17:50:58.071382"
+  },
+  {
+    "id": "ccd25ec7-01c7-459f-a42a-40a597b00ea2",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-07T17:02:49.055298"
+  },
+  {
+    "id": "3014959a-927a-4a89-9509-0999c7ca3de4",
+    "title": "Logout",
+    "details": "System Administrator logged out.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-07T17:02:38.568573"
+  },
+  {
+    "id": "e2f821f0-bc35-471f-a1d9-2e2ee87f4d4f",
+    "title": "Login",
+    "details": "System Administrator logged in.",
+    "actor": "System Administrator",
+    "asset_id": "",
+    "updated_at": "2026-04-07T16:55:13.768927"
+  }
+]
